@@ -1,6 +1,6 @@
 # Conflip Strategy Test
 
-Interactive coinflipping game with logarithm to test a populazized money making stragety in coinflips.
+Interactive coinflipping game with logarithm to test a popularized money making stragety in coinflips.
 
 Interactive start with the player to determine the coinflip variables:
 
